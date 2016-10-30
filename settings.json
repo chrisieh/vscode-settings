@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 16,
+    "editor.lineNumbers": "off",
+    "editor.rulers": [80],
+    "editor.wrappingColumn": 0,
+    "editor.mouseWheelZoom": true,
+    "editor.cursorStyle": "block",
+
+    "files.eol": "\n",
+
+    "explorer.openEditors.dynamicHeight": false,
+
+    "markdownlint.config": {
+        "MD007": {"indent": 4},
+        "MD024": false,
+        "MD025": false
+    }
+}
